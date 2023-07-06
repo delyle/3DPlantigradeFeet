@@ -8,7 +8,7 @@ The joints are based on the 3D hinges designed by Angus Deveson (MakersMuse on Y
 
 ## Recommended settings
 
-I printed these using an Ultimaker with 2.85 mm PLA
+I printed these using an Ultimaker 3 with 2.85 mm PLA, and sliced in Ultimaker Cura
 
 0.2 mm layer height
 
